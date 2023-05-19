@@ -1,4 +1,4 @@
-# chessclock
+# ScoreCounter
 
 ## Project setup
 ```
